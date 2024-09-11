@@ -54,7 +54,7 @@ body {
     overflow: visible;
     box-sizing: content-box;
     opacity: 0.2;
-    transform: scale(3.5) translate(-20px, 1px);
+    transform: scale(3.5) translate(-21px, 2px);
     color: #572424;
     position: absolute;
   }
