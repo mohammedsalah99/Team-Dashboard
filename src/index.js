@@ -154,8 +154,7 @@ const KpiBox = ({ title, value, threshold, unit, goodWhen, icon }) => {
       <FontAwesomeIcon icon={icon} size="2x" style={{ marginBottom: '10px' }} />
       <h3>{title}</h3>
       <p>
-        {value}
-        {unit}
+        {value} {unit}
       </p>
     </div>
   );
